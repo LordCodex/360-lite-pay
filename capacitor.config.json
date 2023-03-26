@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "360lite Pay",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

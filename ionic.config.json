@@ -1,0 +1,8 @@
+{
+  "name": "360lite Pay",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "c7f53307"
+}
